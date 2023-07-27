@@ -1,5 +1,5 @@
 # установка
 git clone git@github.com:mexaks/algorithms.git
 # запуск 
-cd algorithms
+cd algorithms\n
 node index.js
